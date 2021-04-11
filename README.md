@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @brahim_oubaha
 - 👀 I’m interested in medical imaging 
 - 🌱 I’m currently learning biomedical engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : by mail brahimoubahaoffic@gmail.com
 
 <!---
 broubaha/broubaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
